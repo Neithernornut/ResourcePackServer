@@ -1,0 +1,6 @@
+{
+	"parent": "item/renders/ThirdPersonCraw",
+	"textures": {
+		"layer0": "item/items/craw3"
+	}
+}

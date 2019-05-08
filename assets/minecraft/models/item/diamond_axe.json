@@ -1,0 +1,79 @@
+{
+  "__comment": "Max diamond durability is 1562, delta is 0.000640204865557",
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/diamond_axe"
+  },
+  "overrides": [
+    {"predicate": {"damaged": 0, "damage": 0.000640204865557}, "model": "item/items/axe1"},
+    {"predicate": {"damaged": 0, "damage": 0.00128040973111}, "model": "item/items/axe2"},
+    {"predicate": {"damaged": 0, "damage": 0.00192061459667}, "model": "item/items/axe3"},
+    {"predicate": {"damaged": 0, "damage": 0.00256081946223}, "model": "item/items/axe4"},
+    {"predicate": {"damaged": 0, "damage": 0.00320102432778}, "model": "item/items/axe5"},
+    {"predicate": {"damaged": 0, "damage": 0.00384122919334}, "model": "item/items/axe6"},
+    {"predicate": {"damaged": 0, "damage": 0.0044814340589}, "model": "item/items/axe7"},
+    {"predicate": {"damaged": 0, "damage": 0.00512163892446}, "model": "item/items/axe8"},
+	{"predicate": {"damaged": 0, "damage": 0.00576184379001}, "model": "item/items/axe9"},
+	
+
+	
+    {"predicate": {"damaged": 0, "damage": 0.00640204865557}, "model": "item/items/bar1"},
+    {"predicate": {"damaged": 0, "damage": 0.00704225352113}, "model": "item/items/bar2"},
+	
+	
+	
+    {"predicate": {"damaged": 0, "damage": 0.00768245838668}, "model": "item/items/craw1"},
+    {"predicate": {"damaged": 0, "damage": 0.00832266325224}, "model": "item/items/craw2"},
+    {"predicate": {"damaged": 0, "damage": 0.0089628681178}, "model": "item/items/craw3"},
+    {"predicate": {"damaged": 0, "damage": 0.00960307298335}, "model": "item/items/craw4"},
+    {"predicate": {"damaged": 0, "damage": 0.0102432778489}, "model": "item/items/craw5"},
+	
+	
+	
+    {"predicate": {"damaged": 0, "damage": 0.0108834827145}, "model": "item/items/dagger1"},
+	
+	
+	
+    {"predicate": {"damaged": 0, "damage": 0.01152368758}, "model": "item/items/hammer1"},
+    {"predicate": {"damaged": 0, "damage": 0.0121638924456}, "model": "item/items/hammer2"},
+    {"predicate": {"damaged": 0, "damage": 0.0128040973111}, "model": "item/items/hammer3"},
+    {"predicate": {"damaged": 0, "damage": 0.0134443021767}, "model": "item/items/hammer4"},
+    {"predicate": {"damaged": 0, "damage": 0.0140845070423}, "model": "item/items/hammer5"},
+	
+	
+	
+    {"predicate": {"damaged": 0, "damage": 0.0147247119078}, "model": "item/items/spear1"},
+    {"predicate": {"damaged": 0, "damage": 0.0153649167734}, "model": "item/items/spear2"},
+    {"predicate": {"damaged": 0, "damage": 0.0160051216389}, "model": "item/items/spear3"},
+	
+	
+	
+    {"predicate": {"damaged": 0, "damage": 0.0166453265045}, "model": "item/items/staff1"},
+    {"predicate": {"damaged": 0, "damage": 0.01728553137}, "model": "item/items/staff2"},
+    {"predicate": {"damaged": 0, "damage": 0.0179257362356}, "model": "item/items/staff3"},
+    {"predicate": {"damaged": 0, "damage": 0.0185659411012}, "model": "item/items/staff4"},
+    {"predicate": {"damaged": 0, "damage": 0.0192061459667}, "model": "item/items/staff5"},
+    {"predicate": {"damaged": 0, "damage": 0.0198463508323}, "model": "item/items/staff6"},
+	
+	
+	
+    {"predicate": {"damaged": 0, "damage": 0.0204865556978}, "model": "item/items/sword1"},
+    {"predicate": {"damaged": 0, "damage": 0.0211267605634}, "model": "item/items/sword2"},
+    {"predicate": {"damaged": 0, "damage": 0.0217669654289}, "model": "item/items/sword3"},
+    {"predicate": {"damaged": 0, "damage": 0.0224071702945}, "model": "item/items/sword4"},
+    {"predicate": {"damaged": 0, "damage": 0.0230473751601}, "model": "item/items/sword5"},
+    {"predicate": {"damaged": 0, "damage": 0.0236875800256}, "model": "item/items/sword6"},
+    {"predicate": {"damaged": 0, "damage": 0.0243277848912}, "model": "item/items/sword7"},
+    {"predicate": {"damaged": 0, "damage": 0.0249679897567}, "model": "item/items/sword8"},
+    {"predicate": {"damaged": 0, "damage": 0.0256081946223}, "model": "item/items/sword9"},
+    {"predicate": {"damaged": 0, "damage": 0.0262483994878}, "model": "item/items/sword10"},
+    {"predicate": {"damaged": 0, "damage": 0.0268886043534}, "model": "item/items/sword11"},
+    {"predicate": {"damaged": 0, "damage": 0.027528809219}, "model": "item/items/sword12"},
+    {"predicate": {"damaged": 0, "damage": 0.0281690140845}, "model": "item/items/sword13"},
+    {"predicate": {"damaged": 0, "damage": 0.0288092189501}, "model": "item/items/sword14"},
+    {"predicate": {"damaged": 0, "damage": 0.0294494238156}, "model": "item/items/sword15"},
+    {"predicate": {"damaged": 0, "damage": 0.0300896286812}, "model": "item/items/sword16"},
+
+    {"predicate": {"damaged": 1, "damage": 0}, "model": "item/diamond_axe"}
+  ]
+}

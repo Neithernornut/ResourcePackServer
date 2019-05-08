@@ -1,0 +1,6 @@
+{
+	"parent": "item/renders/ThirdPersonBar",
+	"textures": {
+		"layer0": "item/items/bar2"
+	}
+}
